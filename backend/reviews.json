@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:02:43",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 2,
+        "filename": "Test Word file.docx",
+        "date": "2026-07-02 22:03:01",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 3,
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:09:33",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 4,
+        "company": "N",
+        "review_type": "Expected Credit Loss (ECL)",
+        "accounting_topic": "SPPI Test Analysis",
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:44:45",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 5,
+        "company": "N",
+        "review_type": "Expected Credit Loss (ECL)",
+        "accounting_topic": "SPPI Test Analysis",
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:45:47",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 6,
+        "company": "N",
+        "review_type": "Expected Credit Loss (ECL)",
+        "accounting_topic": "Disclosure Completeness",
+        "filename": "Test Word file.docx",
+        "date": "2026-07-02 22:47:35",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 7,
+        "company": "string",
+        "review_type": "string",
+        "accounting_topic": "",
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:49:25",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 8,
+        "company": "N",
+        "review_type": "Expected Credit Loss (ECL)",
+        "accounting_topic": "Disclosure Completeness",
+        "filename": "Test Word file.docx",
+        "date": "2026-07-02 22:50:11",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    },
+    {
+        "id": 9,
+        "company": "N",
+        "review_type": "Expected Credit Loss (ECL)",
+        "accounting_topic": "CGU Identification & Value in Use",
+        "filename": "Test Pdf File.pdf",
+        "date": "2026-07-02 22:53:22",
+        "compliance_score": 50,
+        "risk_level": "High",
+        "acceptance_probability": 52
+    }
+]
