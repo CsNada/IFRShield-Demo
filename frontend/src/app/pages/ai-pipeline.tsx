@@ -41,7 +41,7 @@ export default function AIPipelinePage() {
     setFinished(true);
     // Mark that a review has been completed — dashboard activates live state
     sessionStorage.setItem("ifrshield_has_review", "true");
-    setTimeout(() => navigate("/review-results"), 900);
+    setTimeout(() => navigate("/review-results/1"), 900);
   }, delay + 300);
   }, []);
 
