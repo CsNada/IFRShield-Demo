@@ -159,7 +159,7 @@ export default function NewReviewPage() {
                 onChange={(e) => setCompany(e.target.value)} required maxLength={200}
                 className="h-11 text-sm" style={{ borderColor: BORDER, background: "#FFFFFF" }} />
             </div>
-            <div className="space-y-1.5">
+            {/* <div className="space-y-1.5">
               <Label className="text-sm font-medium" style={{ color: "#5A4A3A" }}>
                 Review Type <span style={{ color: "#B85450" }}>*</span>
               </Label>
@@ -188,7 +188,7 @@ export default function NewReviewPage() {
                   ))}
                 </SelectContent>
               </Select>
-            </div>
+            </div> */}
           </div>
         </SectionCard>
 
