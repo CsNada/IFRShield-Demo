@@ -55,7 +55,7 @@ export default function NewReviewPage() {
           </div>
 
           {/* Analysis Type */}
-          <div className="space-y-2">
+          {/* <div className="space-y-2">
             <Label htmlFor="analysis-type">Analysis Type</Label>
             <Select value={analysisType} onValueChange={setAnalysisType}>
               <SelectTrigger className="h-11">
@@ -71,7 +71,7 @@ export default function NewReviewPage() {
                 <SelectItem value="other">Other</SelectItem>
               </SelectContent>
             </Select>
-          </div>
+          </div> */}
 
           {/* Accounting Analysis */}
           <div className="space-y-2">
