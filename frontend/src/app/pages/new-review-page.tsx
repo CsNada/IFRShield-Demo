@@ -8,7 +8,10 @@ import { Button } from "../components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "../components/ui/select";
 import { Upload, FileText, X } from "lucide-react";
 
-export function NewReviewPage() {
+export default function NewReviewPage() {
+
+  console.log("NewReviewPage Render");
+
   const navigate = useNavigate();
   const [companyName, setCompanyName] = useState("");
   const [analysisType, setAnalysisType] = useState("");
